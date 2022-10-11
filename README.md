@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/LandingPage-blueviolet)
 
-# Website
-This Project was made back then when I Started my Web Design. It was made to actually text my css layout grids. and of cause, it responsive across all web surfer devices. This was a small project which mostly consisted of HTML and CSS. I built a fully-responsive landing page. The only JavaScript this project required was to enable the toggling of the mobile navigation. This Project was done to perfect setting down of reponsiveness in a website.
+# CrowdFunding Web Page
+CrowdFunding Project is the practice of funding a project or venture by raising small amounts of money from a large number of people, typically via the Internet. Design Challenge By Frontend Mentor, Coded by me
 
 ![screenshot](preview.png)
 
@@ -23,10 +23,10 @@ Basic knowledge of HTML, CSS.
 ### Setup
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-[Download the ZIP from this location](https://github.com/Fatima-hub333/color-website/archive/refs/heads/dev.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/Fatima-hub333/crowd-funding-website/archive/refs/heads/dev.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/Fatima-hub333/color-website.git
+git clone https://github.com/Fatima-hub333/crowd-funding-website.git
 ```
 
 - Once the files are on your machine, open the _Portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/).
@@ -53,7 +53,7 @@ The following tools help make easier to work with sample code.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Fatima-hub333/color-website/issues).
+Feel free to check the [issues page](https://github.com/Fatima-hub333/crowd-funding-website/issues).
 
 ## Show your support
 
