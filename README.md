@@ -3,9 +3,9 @@
 # CrowdFunding Web Page
 CrowdFunding Project is the practice of funding a project or venture by raising small amounts of money from a large number of people, typically via the Internet. Design Challenge By Frontend Mentor, Coded by me
 
-![screenshot](preview.png)
+![screenshot](images/preview.png)
 
-## [LiveDemo](https://color-website-delta.vercel.app/)
+## [LiveDemo](https://crowd-funding-website.vercel.app/)
 
 ## Built With
 
